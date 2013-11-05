@@ -78,3 +78,5 @@ pickle-email-*.html
 
 # Ignore application configuration
 /config/application.yml
+zips/2htest/test_run_17
+~$Workbook2.xlsx
